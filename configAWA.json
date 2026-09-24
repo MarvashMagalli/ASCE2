@@ -1,6 +1,6 @@
 {
     "goal_hours": 90000,
-    "event_start_unix": 1790121600,
+    "event_start_unix": 1790179200,
     "virtual_end_unix": 1791590400,
     "game": "warframe-community-event-7",
     "auto_penultimate_milestone": true,
