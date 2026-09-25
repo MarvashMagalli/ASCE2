@@ -25,7 +25,7 @@
         {
             "milestone_message": "20 ARP",
             "current_hours": 40000,
-            "unlocked": false
+            "unlocked": true
         },
         {
             "milestone_message": "Wisp AWA Avatar",
