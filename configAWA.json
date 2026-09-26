@@ -35,7 +35,7 @@
         {
             "milestone_message": "20 ARP",
             "current_hours": 60000,
-            "unlocked": false
+            "unlocked": true
         },
         {
             "milestone_message": "Revenant AWA Avatar",
