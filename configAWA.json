@@ -4,8 +4,8 @@
     "virtual_end_unix": 1791590400,
     "game": "warframe-community-event-7",
     "auto_penultimate_milestone": true,
-    "enable_penultimate_milestone": false,
-    "last_post_hour": "2026-09-26 04:00:00",
+    "enable_penultimate_milestone": true,
+    "last_post_hour": "2026-09-26 08:00:00",
     "milestones": [
         {
             "milestone_message": "10 ARP",
