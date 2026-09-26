@@ -5,7 +5,7 @@
     "game": "warframe-community-event-7",
     "auto_penultimate_milestone": true,
     "enable_penultimate_milestone": true,
-    "last_post_hour": "2026-09-26 12:00:00",
+    "last_post_hour": "2026-09-26 16:00:00",
     "milestones": [
         {
             "milestone_message": "10 ARP",
@@ -40,7 +40,7 @@
         {
             "milestone_message": "Revenant AWA Avatar",
             "current_hours": 70000,
-            "unlocked": false
+            "unlocked": true
         },
         {
             "milestone_message": "35 ARP",
