@@ -45,7 +45,7 @@
         {
             "milestone_message": "35 ARP",
             "current_hours": 80000,
-            "unlocked": false
+            "unlocked": true
         },
         {
             "milestone_message": "5 Fragments",
